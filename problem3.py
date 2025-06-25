@@ -17,9 +17,9 @@
 # Constraints
 # 1<=a<=10 pow 10
 # 1<=b<=10 pow 10
-
 # Output Format
 # Print the three lines as explained above.
+
 # Sample Input 0
 # 3
 # 2
