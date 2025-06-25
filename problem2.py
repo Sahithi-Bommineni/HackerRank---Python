@@ -1,9 +1,9 @@
 # Task
-# Given an integer, , perform the following conditional actions:
-# If  is odd, print Weird
-# If  is even and in the inclusive range of  to , print Not Weird
-# If  is even and in the inclusive range of  to , print Weird
-# If  is even and greater than , print Not Weird
+# Given an integer n, perform the following conditional actions:
+# If n is odd, print Weird
+# If n is even and in the inclusive range of to n print Not Weird
+# If n is even and in the inclusive range of to n print Weird
+# If n is even and greater than n print Not Weird
 
 # Input Format
 # A single line containing a positive integer n.
@@ -24,8 +24,6 @@
 # Not Weird
 # Explanation 1
 # n>20 and n is even, so it is not weird.
-
-#!/bin/python3
 
 import math
 import os
